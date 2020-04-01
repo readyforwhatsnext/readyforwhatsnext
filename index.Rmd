@@ -1,0 +1,15 @@
+---
+title: "Readyforwhatsnext"
+author: "Matthew Hamilton"
+date: "`r format.Date(Sys.Date(),'%B %d, %Y')`"
+output: 
+  html_document:
+    theme: journal
+          
+---
+
+Readyforwhatsnext is an open science framework for developing, validating, extending and generalising computational models of mental health simulations.
+
+The project is funded by VicHealth, Orygen and Victoria University and led by researchers in Orygen, Victoria University, Deakin University and Flinders University. 
+
+Code libraries and documentation for the framework and a resilience simulator built with the framework will be publicly released later in 2020.
