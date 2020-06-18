@@ -8,7 +8,7 @@ output:
           
 ---
 
-Readyforwhatsnext is an open science framework for developing, validating, extending and generalising computational models for mental health simulations.
+Readyforwhatsnext is an open science framework for developing, validating, updating, extending and generalising computational models for mental health simulations.
 
 The project is funded by VicHealth, Orygen and Victoria University and led by researchers in Orygen, Victoria University, Deakin University and Flinders University. 
 
