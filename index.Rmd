@@ -12,4 +12,4 @@ Readyforwhatsnext is an open science framework for developing, validating, updat
 
 The project is funded by VicHealth, Orygen and Victoria University and led by researchers in Orygen, Victoria University, Deakin University and Flinders University. 
 
-Code libraries and documentation for the framework and a resilience simulator built with the framework will be publicly released later in 2020.
+Code libraries and documentation for the framework and a resilience simulator built with the framework will be publicly released in digital asset bundles throughout the second half of 2020. Details of the initial bundled release will be posted here later this month.
