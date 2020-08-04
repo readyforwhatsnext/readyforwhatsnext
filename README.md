@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Readyforwhatsnext
+Readyforwhatsnext is a scientific computing project to help identify better policy approaches to support the mental health of children and young people.
 
-You can use the [editor on GitHub](https://github.com/readyforwhatsnext/readyforwhatsnext/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+There are three components to the readyforwhatsnext project:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- a toolkit to implement reproducible workflows for mental health data synthesis and simulation projects; 
+- demonstration models developped for the Australian context that are implemented to be generalisable to other contexts; and 
+- user-interfaces, scientific summaries and policy analysis reports.
 
-### Markdown
+This repository outlines the publicly available information about the main computational components of this project - principally links to the code libraries and supporting documentation. As additional digital assets from the readyforwhatsnext project are publicly released, this repository will be updated with descriptive information about each release.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/readyforwhatsnext/readyforwhatsnext/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
