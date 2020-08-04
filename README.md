@@ -9,4 +9,6 @@ There are three components to the readyforwhatsnext project:
 
 This repository outlines the publicly available information about the main computational components of this project - principally links to the code libraries and supporting documentation. As additional digital assets from the readyforwhatsnext project are publicly released, this repository will be updated with descriptive information about each release.
 
+The main project page is at: https://readyforwhatsnext.github.io/readyforwhatsnext/index.html
+
 
