@@ -1,15 +1,15 @@
 ---
-title: "Readyforwhatsnext"
+title: "<img src=\"images/cover.png\" />"
 author: "Matthew Hamilton"
 date: "`r format.Date(Sys.Date(),'%B %d, %Y')`"
 output: 
   html_document:
     theme: journal
-          
 ---
+
 
 Readyforwhatsnext is a project to help identify policies that can better support the mental health and wellbeing of children and young people.
 
 The project is funded by VicHealth, Orygen and Victoria University and led by researchers in Orygen, Victoria University, Deakin University and Flinders University. 
 
-Code libraries and documentation relating to the project will be publicly released in digital asset bundles throughout the second half of 2020. The first development releases of readyforwhatsnext reproducible workflows code libraries are now available. These releases include tools for [authoring and documenting functions](https://readyforwhatsnext.github.io/readyforwhatsnext/ready4fun.html) and for [creating and extending classes](https://readyforwhatsnext.github.io/readyforwhatsnext/ready4class.html). 
+Code libraries and documentation relating to the project will be publicly released in digital asset bundles throughout the second half of 2020. The first development releases of readyforwhatsnext reproducible workflows code libraries are now available. These releases include tools for [authoring and documenting functions](https://readyforwhatsnext.github.io/ready4fun/index.html) and for [creating and extending classes](https://readyforwhatsnext.github.io/ready4class/index.html). 
