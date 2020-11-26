@@ -1,6 +1,5 @@
 ---
 title: "<img src=\"images/cover.png\" />"
-author: "Matthew Hamilton"
 date: "`r format.Date(Sys.Date(),'%B %d, %Y')`"
 output: 
   html_document:
@@ -12,4 +11,9 @@ Readyforwhatsnext is a project to help identify policies that can better support
 
 The project is funded by VicHealth, Orygen and Victoria University and led by researchers in Orygen, Victoria University, Deakin University and Flinders University. 
 
-Code libraries and documentation relating to the project will be publicly released in digital asset bundles throughout the second half of 2020. The first development releases of readyforwhatsnext reproducible workflows code libraries are now available. These releases include tools for [authoring and documenting functions](https://readyforwhatsnext.github.io/ready4fun/index.html) and for [creating and extending classes](https://readyforwhatsnext.github.io/ready4class/index.html). 
+The project has two components:
+
+- A **modelling framework** comprising a novel set of tools to support the development of reproducible, replicable and generalisable simulation models in mental health; and
+- A **simulation model** exploring the potential impacts of a range of alternative policy settings on the resilience of children and young people in Victoria, Australia.
+
+Development versions of an initial set of tools from the modelling framework are publicly available, as described [here](https://ready4-dev.github.io/ready4/index.html). The simulation model is due for completion in 2021.
