@@ -1,14 +1,17 @@
 ## Readyforwhatsnext
-Readyforwhatsnext is a scientific computing project to help identify better policy approaches to support the mental health of children and young people.
+Readyforwhatsnext is a project to help identify policies that can better support the mental health and wellbeing of children and young people.
 
-There are three components to the readyforwhatsnext project:
+The project is funded by VicHealth, Orygen and Victoria University and led by researchers in Orygen, Victoria University, Deakin University and Flinders University. 
 
-- a toolkit to implement reproducible workflows for mental health data synthesis and simulation projects; 
-- demonstration models developped for the Australian context that are implemented to be generalisable to other contexts; and 
-- user-interfaces, scientific summaries and policy analysis reports.
+The project has two components:
 
-This repository outlines the publicly available information about the main computational components of this project - principally links to the code libraries and supporting documentation. As additional digital assets from the readyforwhatsnext project are publicly released, this repository will be updated with descriptive information about each release.
+- A **modelling framework** comprising a novel set of tools to support the development of modular, replicable and generalisable simulation models in mental health - described at [www.ready4-dev.com](https://www.ready4-dev.com/); and
+- A **simulation model** exploring the potential impacts of a range of alternative policy settings on the resilience of children and young people in Victoria, Australia. The first outputs from the simulation model are due for release later in 2021.
 
-The main project page is at: https://readyforwhatsnext.github.io/readyforwhatsnext/index.html
+Source code for a number of tools in the modelling framework is available in the (ready4-dev repository)[https://github.com/ready4-dev].
+
+Source code for the simulation model will be posted to this repository once available.
+
+
 
 
